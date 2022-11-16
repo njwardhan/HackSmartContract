@@ -1,1 +1,1 @@
-#### Note: For each exercise, `hacked.sol` file contains an "Attack" contract that exposes some vulnerability in the original contract. The `fixed.sol` file then contains fixed code against the exposed vulnerability.
+#### Note: For each exercise, `hacked.sol` file contains an "Attack" contract that exposes some vulnerability in the original (V8) contracts. The `fixed.sol` file then contains fixed code against the exposed vulnerability.
